@@ -1,0 +1,5 @@
+C:\Users\user\Desktop\Personal Code\InterviewPrep\KratosExercise\obj\Debug\netcoreapp3.0\KratosExercise.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Personal Code\InterviewPrep\KratosExercise\obj\Debug\netcoreapp3.0\KratosExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Personal Code\InterviewPrep\KratosExercise\obj\Debug\netcoreapp3.0\KratosExercise.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Personal Code\InterviewPrep\KratosExercise\obj\Debug\netcoreapp3.0\KratosExercise.AssemblyInfo.cs
+C:\Users\user\Desktop\Personal Code\InterviewPrep\KratosExercise\obj\Debug\netcoreapp3.0\KratosExercise.csproj.CoreCompileInputs.cache

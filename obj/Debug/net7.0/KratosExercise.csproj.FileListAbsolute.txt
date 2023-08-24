@@ -1,0 +1,17 @@
+C:\Users\user\Desktop\Personal Code\InterviewPrep\KratosExercise\obj\Debug\net7.0\KratosExercise.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Personal Code\InterviewPrep\KratosExercise\obj\Debug\net7.0\KratosExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Personal Code\InterviewPrep\KratosExercise\obj\Debug\net7.0\KratosExercise.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Personal Code\InterviewPrep\KratosExercise\obj\Debug\net7.0\KratosExercise.AssemblyInfo.cs
+C:\Users\user\Desktop\Personal Code\InterviewPrep\KratosExercise\obj\Debug\net7.0\KratosExercise.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Personal Code\InterviewPrep\KratosExercise\bin\Debug\net7.0\KratosExercise.exe
+C:\Users\user\Desktop\Personal Code\InterviewPrep\KratosExercise\bin\Debug\net7.0\KratosExercise.deps.json
+C:\Users\user\Desktop\Personal Code\InterviewPrep\KratosExercise\bin\Debug\net7.0\KratosExercise.runtimeconfig.json
+C:\Users\user\Desktop\Personal Code\InterviewPrep\KratosExercise\bin\Debug\net7.0\KratosExercise.dll
+C:\Users\user\Desktop\Personal Code\InterviewPrep\KratosExercise\bin\Debug\net7.0\KratosExercise.pdb
+C:\Users\user\Desktop\Personal Code\InterviewPrep\KratosExercise\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\user\Desktop\Personal Code\InterviewPrep\KratosExercise\obj\Debug\net7.0\KratosExercise.csproj.CopyComplete
+C:\Users\user\Desktop\Personal Code\InterviewPrep\KratosExercise\obj\Debug\net7.0\KratosExercise.dll
+C:\Users\user\Desktop\Personal Code\InterviewPrep\KratosExercise\obj\Debug\net7.0\refint\KratosExercise.dll
+C:\Users\user\Desktop\Personal Code\InterviewPrep\KratosExercise\obj\Debug\net7.0\KratosExercise.pdb
+C:\Users\user\Desktop\Personal Code\InterviewPrep\KratosExercise\obj\Debug\net7.0\KratosExercise.genruntimeconfig.cache
+C:\Users\user\Desktop\Personal Code\InterviewPrep\KratosExercise\obj\Debug\net7.0\ref\KratosExercise.dll
